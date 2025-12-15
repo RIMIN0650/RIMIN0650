@@ -9,4 +9,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIMIN0650&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 
-[![Solved.ac 프로필] (http://mazassumnida.wtf/api/generate_badge?boj={rhdahdthd})](https://solved.ac/{rhdahdthd})
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhdahdthd)](https://solved.ac/rhdahdthd/)
